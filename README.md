@@ -4,8 +4,7 @@
 
 I work where credit policy meets code. I build the SQL that turns multi-million-row
 behavioural panels into eligibility flags, the Python that retires a recurring manual
-report, and the logic behind who gets offered a line of credit — then I defend the
-conclusion in front of a risk committee.
+report, and the logic behind who gets offered a line of credit. 
 
 Currently Credit Business Intelligence Engineer Sr. at Banca Afirme, Monterrey, working
 on parametric credit risk for the SME lending portfolio.
@@ -36,5 +35,5 @@ on demand. Listed and verified on the Omarchy plugin marketplace.
 
 ### Background
 
-B.A. Economics, Universidad Autónoma de Nuevo León. Spanish native, English intermediate.
+Spanish native, English intermediate.
 Based in Monterrey, Nuevo León, México.
