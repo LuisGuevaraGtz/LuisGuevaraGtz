@@ -1,39 +1,68 @@
-## Luis Guevara
+# Luis Guevara
 
-**Credit risk & BI engineer. Economist by training, 13+ years in Mexican banking.**
+**Business Intelligence | SQL | Python | Data Analytics & Automation**
 
-I work where credit policy meets code. I build the SQL that turns multi-million-row
-behavioural panels into eligibility flags, the Python that retires a recurring manual
-report, and the logic behind who gets offered a line of credit. 
+I work at the intersection of data analytics, business intelligence, and software automation.
 
-Currently Credit Business Intelligence Engineer Sr. at Banca Afirme, Monterrey, working
-on parametric credit risk for the SME lending portfolio.
+My experience combines data-driven problem solving in financial services with hands-on development of tools and workflows. I use SQL, Python, SAS, and Excel to transform data, automate recurring tasks, and support business decisions.
 
-### What I do
+I enjoy building practical solutions, exploring new technologies, and turning repetitive processes into reliable and maintainable workflows.
 
-- **Parametric credit risk** — design and justify origination campaigns, define
-  eligibility criteria, segment the portfolio and measure how it performs.
-- **SQL at scale** — window functions, rolling windows and partitioned panel datasets;
-  behavioural series and eligibility flags built as analytical pipelines.
-- **Python automation** — automated interpretation of credit-bureau data, automated
-  risk-committee reporting, maintenance of production admission-model code.
-- **Open source on Linux** — desktop tooling published and security-reviewed in public;
-  day-to-day workflows automated with AI coding agents and local LLMs.
+## Core Skills
 
-### Tools
+- **Data & Analytics:** SQL, SAS, data analysis, data transformation, analytical reporting.
+- **Programming & Automation:** Python, scripting, process automation.
+- **Business Intelligence:** Excel, reporting, dashboard development.
+- **Tools & Workflow:** Git, GitHub, Linux, AI-assisted development.
 
-SQL · Python · SAS · Advanced Excel · Git · Linux
+**Currently developing:** Power BI and Odoo Community through independent learning and personal projects.
 
-Odoo Community — self-taught, personal projects. Power BI — developing.
+## Selected Projects
 
-### Published work
+### [Omarchy Network Scanner](https://github.com/LuisGuevaraGtz/omarchy-netscan)
 
-**[Network Scanner](https://omarchyplugins.com/plugin.html?id=lu15ggtz.netscan)** — finds every
-device on your local network in about a second, and inspects the open ports on any one of them
-on demand. Listed and verified on the Omarchy plugin marketplace.
-[Source](https://github.com/LuisGuevaraGtz/omarchy-netscan).
+A Python plugin for Omarchy that discovers devices on a local network and provides on-demand port inspection for individual hosts.
 
-### Background
+- Python
+- Linux networking
+- Open-source development
+- Listed in the Omarchy plugin marketplace
 
-Spanish native, English intermediate.
-Based in Monterrey, Nuevo León, México.
+### [FIXCUBE](https://github.com/LuisGuevaraGtz/fixcube)
+
+A 3D Rubik's Cube simulator and solver supporting cube sizes from 2x2 to 10x10.
+
+- TypeScript
+- 3D visualization
+- Algorithm implementation
+- Automated tests
+- Live demo
+
+### [Omarchy Jezzball](https://github.com/LuisGuevaraGtz/omarchy-jezzball)
+
+A JezzBall-inspired arcade game built for Omarchy, featuring 70 levels and two game modes.
+
+- Rust
+- Macroquad
+- Linux
+- CI and installation workflow
+
+## Professional Background
+
+Economics background with experience in financial services, business intelligence, data analytics, and credit-related business processes.
+
+I am particularly interested in projects involving:
+
+- SQL and Python-based data processing.
+- Reporting and workflow automation.
+- Business intelligence and analytical solutions.
+- Practical software tools that solve real operational problems.
+
+## About Me
+
+- Based in Monterrey, Nuevo León, Mexico.
+- Spanish: Native.
+- English: Intermediate.
+- Interested in open-source software, Linux, automation, data, and AI-assisted development.
+
+All public projects presented here are personal or open-source work. No confidential employer data, internal business methods, or client information are included.
